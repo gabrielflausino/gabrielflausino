@@ -1,20 +1,20 @@
-## Sou Gabriel Ferreira Flausino 
+# Sou Gabriel Ferreira Flausino 
 
-# 🎓 Estudante de Engenharia de Software na FIAP
+## 🎓 Estudante de Engenharia de Software na FIAP
 
-# 💻 Tecnologias
+## 💻 Tecnologias
 - Python
 - HTML
 - CSS
 - JavaScript
 - Git e GitHub
 
-# 🚀 Atualmente estudando
+## 🚀 Atualmente estudando
 - Desenvolvimento Web
 - Engenharia de Software
 - Banco de Dados
 
-# 📚 Desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades em programação e desenvolvimento de software.
+## 📚 Desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades em programação e desenvolvimento de software.
 
-# 📫 LinkedIn:
+## 📫 LinkedIn:
 www.linkedin.com/in/gabriel-ferreira-flausino
