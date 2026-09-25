@@ -1,20 +1,42 @@
-# Sobre Gabriel Ferreira Flausino:
+# Olá! 👋 Eu sou Gabriel Ferreira Flausino
 
-## 🎓 Estudante de Engenharia de Software na FIAP
+💻 Estudante de Engenharia de Software na FIAP
 
-## 💻 Tecnologias
+🚀 Desenvolvedor em formação
+
+📚 Atualmente estudando:
 - Python
 - HTML
 - CSS
 - JavaScript
 
-## 🚀 Atualmente estudando
-- Desenvolvimento Web
-- Front-End Design 
-- Lógica Computacional De Python 
+🎯 Objetivos:
+- Conseguir minha primeira oportunidade na área de tecnologia
+- Evoluir como desenvolvedor Full Stack
+- Construir projetos úteis e criativos
 
-## 📚 Estudos
-Desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades em programação e desenvolvimento de software.
+---
 
-## 📫 LinkedIn:
-www.linkedin.com/in/gabriel-ferreira-flausino
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flausinooo&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flausinooo&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:SEU_EMAIL)
