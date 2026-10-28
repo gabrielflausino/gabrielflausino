@@ -1,112 +1,158 @@
- 
+
 <div align="center">
 
-# 👋 Olá, eu sou Gabriel Ferreira Flausino!
+# Gabriel Ferreira Flausino
 
-### 🎓 Software Engineering Student | FIAP
-**💻 Desenvolvedor em formação | 🚀 Futuro Full Stack Developer**
+### Software Engineering Student @ FIAP
+**Full Stack Developer in Progress**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Engenharia+de+Software;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Gabriel.;Software+Engineering+Student;Building+ideas+into+real+projects;Learning%2C+Coding+and+Improving!" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-Brazil-238636?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-8957E5?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🌎 Sobre mim
+## 👨‍💻 About Me
 
-Sou estudante de **Engenharia de Software na FIAP**, apaixonado por tecnologia, programação e desenvolvimento de soluções criativas.
+Olá! Eu sou **Gabriel Ferreira Flausino**, estudante de Engenharia de Software na **FIAP**.
 
-Atualmente estou desenvolvendo minhas habilidades em **Front-End, Back-End e lógica de programação**, por meio de projetos acadêmicos e estudos práticos.
+Sou apaixonado por tecnologia, desenvolvimento de software e pela possibilidade de transformar ideias em soluções reais.
 
-🎯 **Meu objetivo:** conquistar minha primeira oportunidade profissional na área de tecnologia, evoluir como desenvolvedor Full Stack e contribuir para projetos inovadores.
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento Front-End, Back-End e boas práticas de programação por meio de projetos acadêmicos e pessoais.
+
+- 🎓 Engenharia de Software — FIAP
+- 💻 Foco em desenvolvimento Full Stack
+- 🌱 Aprendendo novas tecnologias constantemente
+- 🚀 Desenvolvendo projetos práticos com React e Python
+- 🎯 Buscando minha primeira oportunidade em tecnologia
+- 🤝 Interessado em colaboração e trabalho em equipe
 
 ---
 
-## 🌐 Front-End Development
+## 🛠️ Tech Stack
+
+### Front-End
 
 <div align="center">
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Vite](https://skillicons.dev/icons?i=vite)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark" />
 
 </div>
 
-**O que estou estudando:**
-
-- HTML5 — Estruturação de páginas web
-- CSS3 — Estilização e responsividade
-- JavaScript — Interatividade e lógica
-- React — Componentes e interfaces
-- Vite — Ferramenta para projetos Front-End
-
----
-
-## 🐍 Back-End Development
+### Back-End & Programming
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![Arduino](https://skillicons.dev/icons?i=arduino)
+<img src="https://skillicons.dev/icons?i=python,cpp,arduino&theme=dark" />
 
 </div>
 
-**Conhecimentos em desenvolvimento:**
-
-- Python — Funções, listas e estruturas de dados
-- JSON — Manipulação e armazenamento de dados
-- APIs — Consumo de serviços externos
-- C++ — Programação com Arduino
-
----
-
-## 🛠️ Ferramentas e Tecnologias
+### Tools & Environment
 
 <div align="center">
 
-![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,windows)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,windows&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Projetos Acadêmicos
+## 🚀 Featured Projects
 
-**📸 JOVI Camera Smart Preset**
+### ⚡ Interactive Pokédex
 
-Sistema desenvolvido em Python para gerenciar configurações e presets de câmera.
+Aplicação web desenvolvida com **React, Vite e Tailwind CSS**, utilizando a PokéAPI para consultar informações de Pokémon.
 
-**🌱 Projeto de Sustentabilidade**
+**Principais funcionalidades:**
+- Pesquisa dinâmica de Pokémon
+- Integração com API REST
+- Visualização de formas alternativas e evoluções especiais
+- Alternância entre sprites e versões
+- Interface responsiva
+- Navegação interativa
 
-Aplicação de lógica de programação e cálculos para análise de substratos.
+**Tecnologias:** React · JavaScript · Tailwind CSS · PokéAPI
 
-**🌐 Projetos Web**
+### 📸 JOVI Camera Smart Preset
 
-Desenvolvimento de interfaces utilizando HTML, CSS, JavaScript e React.
+Projeto desenvolvido em Python para gerenciamento de configurações e presets personalizados de câmera.
 
-*Explore meus repositórios para acompanhar minha evolução!*
+**Conceitos aplicados:**
+- Lógica de programação
+- Estruturas de dados
+- Funções e modularização
+- Organização e persistência de informações
 
----
+**Tecnologias:** Python · JSON
 
-## 📊 GitHub Stats
+### 🌱 Sustainability Project
+
+Projeto acadêmico envolvendo programação e análise de dados para estudo de substratos e soluções sustentáveis.
+
+**Conceitos aplicados:**
+- Funções matemáticas
+- Manipulação de dados
+- Resolução de problemas
+- Desenvolvimento de algoritmos
+
+**Tecnologias:** Python
+
+### 🌐 Front-End Projects
+
+Desenvolvimento de interfaces web e aplicações utilizando HTML, CSS, JavaScript e React.
+
+**Conceitos aplicados:**
+- Componentização
+- Layout responsivo
+- Estilização de interfaces
+- Organização de projetos
+- Versionamento com Git e GitHub
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=gabrielflausino&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielflausino&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/gabrielflausino?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 📫 Contato
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielflausino)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielflausino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielflausino&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gabrielflausino/gabrielflausino/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/gabrielflausino">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -114,8 +160,12 @@ Desenvolvimento de interfaces utilizando HTML, CSS, JavaScript e React.
 
 <div align="center">
 
-**💡 "A evolução acontece a cada linha de código."**
+### "Turning curiosity into code, one project at a time."
 
-⭐ Obrigado pela visita!
+<img src="https://komarev.com/ghpvc/?username=gabrielflausino&label=Profile%20Views&color=58A6FF&style=flat-square" />
+
+<br><br>
+
+**Thanks for visiting my profile! 🚀**
 
 </div>
